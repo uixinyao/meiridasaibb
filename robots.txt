@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://uixinyao.github.io/meiridasaibb/sitemap.xml
